@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/shayan0786/leetcode-solutions/tree/master/0051-n-queens) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
