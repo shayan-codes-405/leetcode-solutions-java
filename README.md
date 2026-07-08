@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/shayan0786/leetcode-solutions/tree/master/0051-n-queens) |
 | [0268-missing-number](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0268-missing-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
