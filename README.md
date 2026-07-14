@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0168-excel-sheet-column-title](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0709-to-lower-case) |
