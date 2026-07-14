@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
