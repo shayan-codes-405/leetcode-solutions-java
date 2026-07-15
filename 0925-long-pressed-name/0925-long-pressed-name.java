@@ -1,25 +1,43 @@
 class Solution {
     public boolean isLongPressedName(String name, String typed) {
-        int m = name.length(), n = typed.length();
-        int i = 0, j = 0;
-        while (i < m && j < n) {
-            if (name.charAt(i) != typed.charAt(j)) {
+
+        int i = 0;
+        int j = 0;
+
+        while (i < name.length() && j < typed.length()) {
+
+            // Characters match
+            if (name.charAt(i) == typed.charAt(j)) {
+                i++;
+                j++;
+            }
+
+            // Extra repeated character in typed (long press)
+            else if (j > 0 && typed.charAt(j) == typed.charAt(j - 1)) {
+                j++;
+            }
+
+            // Invalid character
+            else {
                 return false;
             }
-            int x = i + 1;
-            while (x < m && name.charAt(x) == name.charAt(i)) {
-                ++x;
-            }
-            int y = j + 1;
-            while (y < n && typed.charAt(y) == typed.charAt(j)) {
-                ++y;
-            }
-            if (x - i > y - j) {
-                return false;
-            }
-            i = x;
-            j = y;
         }
-        return i == m && j == n;
+
+        // Name should be completely matched
+        if (i != name.length()) {
+            return false;
+        }
+
+        // Remaining typed characters (if any) must be repeats
+        while (j < typed.length()) {
+
+            if (typed.charAt(j) != typed.charAt(j - 1)) {
+                return false;
+            }
+
+            j++;
+        }
+
+        return true;
     }
 }
