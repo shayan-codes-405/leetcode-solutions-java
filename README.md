@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/shayan0786/leetcode-solutions/tree/master/0051-n-queens) |
+| [0218-the-skyline-problem](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
@@ -166,4 +170,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
